@@ -10,8 +10,8 @@
 > 你也可以自定义自己喜欢的头部和尾部，插件试替换，非常简单哦！
 
 ##Demo
-[![](https://raw.githubusercontent.com/alafighting/SwipeRefreshExpandLayout/master/screenshot/device-2016-01-27-183407.png)]
-[![](https://raw.githubusercontent.com/alafighting/SwipeRefreshExpandLayout/master/screenshot/device-2016-01-27-183423.png)]
+![](https://raw.githubusercontent.com/alafighting/SwipeRefreshExpandLayout/master/screenshot/device-2016-01-27-183407.png)
+![](https://raw.githubusercontent.com/alafighting/SwipeRefreshExpandLayout/master/screenshot/device-2016-01-27-183423.png)
 
 ##How to
 
