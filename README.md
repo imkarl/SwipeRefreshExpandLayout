@@ -1,9 +1,17 @@
 # SwipeRefreshExpandLayout
 拓展自SwipeRefreshLayout. 支持自定义HeaderView和FooterView，支持下拉刷新和上拉加载更多
 
+# 警告！！！
+> 此项目存在很多bug！本人也不负责维护！请慎用！！！
+> 如果实在想用，又无法解决bug，请找下文中提到的大神……
+
 ##支持的View
 > 理论上支持所有的View
 > 你也可以自定义自己喜欢的头部和尾部，插件试替换，非常简单哦！
+
+##Demo
+[![](https://raw.githubusercontent.com/alafighting/SwipeRefreshExpandLayout/master/screenshot/device-2016-01-27-183407.png)]
+[![](https://raw.githubusercontent.com/alafighting/SwipeRefreshExpandLayout/master/screenshot/device-2016-01-27-183423.png)]
 
 ##How to
 
